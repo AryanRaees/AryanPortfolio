@@ -1,0 +1,9 @@
+#box{
+    width: 12%;
+}
+#box1{
+    width: 15%;
+}
+table,th,td{
+    border: 1px solid black;
+}
